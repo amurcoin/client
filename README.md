@@ -2,3 +2,5 @@
 Клиент для работы с блокчейн-сетью
 
 CosmoFest AssetID: 58MnYgNoxGkLego4Cu5M15yimapr33ESdpJCY2hHARFa
+PortalVR: 3Jj9jq9D5HNXCBC33hcWxJCD6fon4veW5Sxqpnxnnpva
+EcoCoin: 4SwLei3diq34BAhRDAQ5Ms6tVDmpJxnbjvggwFsa4dhu
